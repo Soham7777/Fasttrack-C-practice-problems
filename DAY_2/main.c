@@ -7,7 +7,7 @@
 int main()
 {
 
-/*  assert(sum_of_five_digits(12345) == 15);
+    assert(sum_of_five_digits(12345) == 15);
     assert(sum_of_five_digits(78910) == 25);
 
     assert(reverse_of_array(12345) == 54321);
@@ -31,7 +31,7 @@ int main()
     volume_of_shapes();
 
     assert(charges_elec_func(100) == 100);
-    assert(charges_elec_func(300) == 450); */
+    assert(charges_elec_func(300) == 450); 
 
 
 
