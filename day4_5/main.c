@@ -6,15 +6,15 @@
 
 int main()
 {
-  //asc_desc();
+  asc_desc();
 
- // swap_def();
+  swap_def();
 
- // MIN_MAX();
+  MIN_MAX();
 
- // remove_duplicates();
+  remove_duplicates();
 
-   search_integer();
+  search_integer();
 
 
   return 0;
